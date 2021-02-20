@@ -1,2 +1,1 @@
-Fully working PHP/AJAX contact form script is available in the pro version of the template.
-You can buy it from: https://bootstrapmade.com/INFINITY-free-bootstrap-theme/
+this was a basic bootstrap template modified  from core with diffrent animations and major ui changes
